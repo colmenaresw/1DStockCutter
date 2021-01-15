@@ -3,7 +3,7 @@
 
 this is a one-dimensional bin optimizer that uses a genetic algorithm to find the best combination possible of arrangement for the items.
 
-To use it, you need python: run the script through the console, specify as requested the path where your excel document is, and with a size of stock lenght you will optimize for.
+To use it, you need python: run the "main" script through the console, specify as requested the path where your excel document is, and with a size of stock lenght you will optimize for.
 
 your excel document must have the following headers:
 * "REFERENCIA": that is the name of the bar you are optimizing
