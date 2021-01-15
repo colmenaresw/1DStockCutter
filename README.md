@@ -10,4 +10,11 @@ your excel document must have the following headers:
 
 this is an example of how the document must be arranged:
 
+![alt text](https://github.com/colmenaresw/1DStockCutter/blob/main/1DstockImages/Captura1.JPG)
+
+Finally, the script will generate two csv documents:
+
+1. optimization: this is where your final optimization is
+2. performance: this is where data related to your optimization is, such as: total lenght used, total remaining, performance.
+
 
