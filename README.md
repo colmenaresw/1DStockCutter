@@ -18,3 +18,7 @@ Finally, the script will generate two csv documents:
 
 1. optimization: this is where your final optimization is
 2. performance: this is where data related to your optimization is, such as: total lenght used, total remaining, performance.
+
+Thanks to: 
+* **the nature of code: Daniel Shiffman**
+* **A Hybrid Grouping Genetic Algorithm for Bin Packing by Emanuel Falkenauer**
