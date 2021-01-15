@@ -1,9 +1,9 @@
 # 1DStockCutter
   -------------
 
-this is one dimensional bin optimizer that uses a genetic algorithm to find the best combination posible of arragement for the stocks.
+this is a one-dimensional bin optimizer that uses a genetic algorithm to find the best combination possible of arrangement for the items.
 
-in order to use it, you need python: run the script through the console, specify as requested the path were your excel document is and with size of stocklenght you will optimize for.
+To use it, you need python: run the script through the console, specify as requested the path where your excel document is, and with a size of stock lenght you will optimize for.
 
 your excel document must have the following headers:
 * "REFERENCIA": that is the name of the bar you are optimizing
@@ -18,5 +18,3 @@ Finally, the script will generate two csv documents:
 
 1. optimization: this is where your final optimization is
 2. performance: this is where data related to your optimization is, such as: total lenght used, total remaining, performance.
-
-
